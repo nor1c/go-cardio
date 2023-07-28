@@ -38,7 +38,7 @@
 ### Things to Explore
 - [ ] Goroutine Pattern
 - [ ] Channel Pattern
-- [ ] Dependency Management Tools such as Godep, Glide, Sltr, etc.
+- [ ] Dependency Management Tools such as Godep, Glide, Sltr, etc. (this doesn't event exist, stupid Hiring Manager just copy-pasted everything that they found on the internet, no fucking effort, do your job fucking DUMB!)
 - [ ] Go's Code Generation Tools such as Stringer
 - [ ] Go's Templating Engine
 - [ ] Containerization Technologies (RKT, Kubernets)
