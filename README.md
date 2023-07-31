@@ -1,3 +1,8 @@
+###
+```
+nodemon --watch './**/*.go' --signal SIGKILL --exec 'go' run main.go
+```
+
 ### Practice Case Goals
 - [x] CRUD with Gin
 - [ ] CRUD with Fiber
@@ -34,6 +39,7 @@
 - [ ] Payment Gateway with Stripe
 - [ ] Real-time Chat App using WebSocket
 - [ ] Image Recognition using machine learning (TersorFlow or PyTorch)
+- [ ] Working with Dependency Injection
 
 ### Things to Explore
 - [ ] Goroutine Pattern
